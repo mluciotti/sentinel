@@ -25,7 +25,7 @@ Microsoft (Azure) Sentinel (SIEM) was connected to a live virtual machine acting
 <img src="https://i.imgur.com/HzZ8LjO.png" height="100%" width="100%" alt="RDP"/>
 </p>
 
-<h2>World Map with attempted intrustions plotted</h2>
+<h2>World Map with attempted intrusions plotted</h2>
 
 <p align="center">
 <img src="https://i.imgur.com/948OSPv.png" height="100%" width="100%" alt="RDP"/>
